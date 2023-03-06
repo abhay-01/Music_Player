@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522075778050",
+    "project_id": "music-player-2f56b",
+    "storage_bucket": "music-player-2f56b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522075778050:android:639f2a9e5ccdf141e14b1b",
+        "android_client_info": {
+          "package_name": "com.tul.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522075778050-b8b08ogshcptagl8kehsrr4r6d54rs2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsCI_a2_jVc-rBKtQyfRrtiaCCv-MJDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522075778050-b8b08ogshcptagl8kehsrr4r6d54rs2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
